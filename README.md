@@ -4,4 +4,4 @@ This jupyter notebook makes plot from Dräger Polytron 7000 logfiles
 
 ![Gasvision2](images/GasVisionInstructions2.png)
 
-<img src=images/GasVisionInstructions.png>
+<img src="images/GasVisionInstructions.png">
