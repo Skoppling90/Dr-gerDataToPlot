@@ -1,5 +1,6 @@
 # DrägerDataToPlot
-This jupyter notebook makes plot from Dräger Polytron 7000 logfiles
+# This jupyter notebook makes plot from Dräger Polytron 7000 logfiles
+
 Etter du har lagret tekstfilen fra GasVision på et kjent sted kan du følge denne guiden.
 
 1. Åpne tekstfilen fra Excel ved å trykke på "fil" og deretter "åpne"
